@@ -1,4 +1,4 @@
-# example-codeplug
+# my-codeplug
 
 Generate DMR codeplugs from a variety of online sources using
 [dzcb](https://github.com/mycodeplug/dzcb).
